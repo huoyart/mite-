@@ -1,4 +1,4 @@
-# mite-save file
+# mite save file
 mite存档神器
 
 把脚本放在.minecraft\MITE\saves\1.6.4路径下
